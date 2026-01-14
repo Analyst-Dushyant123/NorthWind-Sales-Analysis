@@ -2,7 +2,7 @@
 
 ## DashBoard Preview
 
-![Dashboard Preview](Screenshots/main_dashboard.jpg)
+![Dashboard Preview](https://github.com/Analyst-Dushyant123/NorthWind-Sales-Analysis/blob/main/NWSA.jpg)
 
 <br>
 

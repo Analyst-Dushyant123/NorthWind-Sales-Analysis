@@ -1,8 +1,14 @@
 # NorthWind-Sales-Analysis
-# DashBoard Preview
-![Project Banner](
-🚀 Transforming Raw Data into Insights: Northwind Sales Analysis using DAX
-Body:
+
+## DashBoard Preview
+
+![Dashboard Preview](Screenshots/main_dashboard.jpg)
+
+<br>
+
+### 🚀 Transforming Raw Data into Insights: Northwind Sales Analysis using DAX
+
+*Body:*
 Excited to share my latest project where I deep-dived into the Northwind Database to solve real-world business problems using Power BI and advanced DAX functions.
 Instead of just creating visuals, I focused on the "Logic" behind the data. In this video presentation, I have demonstrated how to write optimized DAX queries to extract meaningful insights.
 🔍 Key Business Questions Solved:

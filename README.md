@@ -1,4 +1,6 @@
 # NorthWind-Sales-Analysis
+# DashBoard Preview
+![Project Banner](
 🚀 Transforming Raw Data into Insights: Northwind Sales Analysis using DAX
 Body:
 Excited to share my latest project where I deep-dived into the Northwind Database to solve real-world business problems using Power BI and advanced DAX functions.
